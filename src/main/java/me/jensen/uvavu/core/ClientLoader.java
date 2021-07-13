@@ -1,6 +1,6 @@
-package dev.zihasz.client.core;
+package me.jensen.uvavu.core;
 
-import dev.zihasz.client.Client;
+import me.jensen.uvavu.uvavut;
 import net.minecraftforge.common.ForgeVersion;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin.Name;
@@ -37,7 +37,7 @@ public class ClientLoader implements IFMLLoadingPlugin {
 	@Nullable
 	@Override
 	public String getSetupClass() {
-		return "dev.zihasz.client.core.ClientHook";
+		return "me.jensen.uvavu.core.ClientHook";
 	}
 
 	@Override

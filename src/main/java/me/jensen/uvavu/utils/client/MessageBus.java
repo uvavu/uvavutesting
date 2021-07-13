@@ -1,8 +1,8 @@
-package dev.zihasz.client.utils.client;
+package me.jensen.uvavu.utils.client;
 
 import com.mojang.realmsclient.gui.ChatFormatting;
-import dev.zihasz.client.Client;
-import dev.zihasz.client.utils.Util;
+import me.jensen.uvavu.Client;
+import me.jensen.uvavu.utils.Util;
 import net.minecraft.util.text.TextComponentString;
 
 public class MessageBus implements Util {

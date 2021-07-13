@@ -1,6 +1,6 @@
-package dev.zihasz.client.utils.client;
+package me.jensen.uvavu.utils.client;
 
-import dev.zihasz.client.utils.Util;
+import me.jensen.uvavu.utils.Util;
 import org.reflections.Reflections;
 
 import java.util.Set;

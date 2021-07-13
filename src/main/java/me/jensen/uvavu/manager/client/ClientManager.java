@@ -1,6 +1,6 @@
-package dev.zihasz.client.manager.client;
+package me.jensen.uvavu.manager.client;
 
-import dev.zihasz.client.manager.Manager;
+import me.jensen.uvavu.manager.Manager;
 
 public class ClientManager extends Manager {
 }

@@ -1,4 +1,4 @@
-package dev.zihasz.client.utils.math;
+package me.jensen.uvavu.utils.math;
 
 public class MathUtils {
 }

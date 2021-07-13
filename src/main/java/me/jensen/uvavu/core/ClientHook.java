@@ -1,4 +1,4 @@
-package dev.zihasz.client.core;
+package me.jensen.uvavu.core;
 
 import net.minecraft.server.dedicated.ServerHangWatchdog;
 import net.minecraftforge.fml.relauncher.IFMLCallHook;

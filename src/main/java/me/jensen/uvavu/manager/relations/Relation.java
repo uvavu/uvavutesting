@@ -1,4 +1,4 @@
-package dev.zihasz.client.manager.relations;
+package me.jensen.uvavu.manager.relations;
 
 import com.mojang.authlib.GameProfile;
 

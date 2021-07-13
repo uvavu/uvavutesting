@@ -1,4 +1,4 @@
-package dev.zihasz.client.utils;
+package me.jensen.uvavu.utils;
 
 import net.minecraft.client.Minecraft;
 

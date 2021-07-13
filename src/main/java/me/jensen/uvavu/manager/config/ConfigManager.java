@@ -1,7 +1,7 @@
-package dev.zihasz.client.manager.config;
+package me.jensen.uvavu.manager.config;
 
-import dev.zihasz.client.Client;
-import dev.zihasz.client.manager.Manager;
+import me.jensen.uvavu.Client;
+import me.jensen.uvavu.manager.Manager;
 
 public class ConfigManager extends Manager {
 

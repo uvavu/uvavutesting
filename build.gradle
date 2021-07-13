@@ -26,7 +26,7 @@ minecraft {
     version = project.forgeVersion
     mappings = project.mcpVersion
     runDir = 'run'
-    coreMod = 'dev.zihasz.client.core.ClientLoader'
+    coreMod = 'me.jensen.uvavu.core.ClientLoader'
     makeObfSourceJar = false
 }
 repositories {
@@ -94,7 +94,7 @@ jar {
                 'tweakClass': 'org.spongepowered.asm.launch.MixinTweaker',
                 'TweakOrder': 0,
                 'FMLCorePluginContainsFMLMod': 'true',
-                'FMLCorePlugin': 'dev.zihasz.client.core.ClientLoader',
+                'FMLCorePlugin': 'me.jensen.uvavu.core.ClientLoader',
                 'ForceLoadAsMod': 'true',
                 'FMLAT': 'client_at.cfg'
         )

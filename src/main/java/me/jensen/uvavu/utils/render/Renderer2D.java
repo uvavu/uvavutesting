@@ -1,6 +1,6 @@
-package dev.zihasz.client.utils.render;
+package me.jensen.uvavu.utils.render;
 
-import dev.zihasz.client.utils.Util;
+import me.jensen.uvavu.utils.Util;
 import net.minecraft.client.gui.ScaledResolution;
 import net.minecraft.client.renderer.*;
 import net.minecraft.entity.Entity;

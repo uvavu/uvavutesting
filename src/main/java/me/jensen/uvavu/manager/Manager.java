@@ -1,4 +1,4 @@
-package dev.zihasz.client.manager;
+package me.jensen.uvavu.manager;
 
 import net.minecraft.client.Minecraft;
 import org.reflections.Reflections;

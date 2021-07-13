@@ -1,9 +1,9 @@
-package dev.zihasz.client.manager.feature;
+package me.jensen.uvavu.manager.feature;
 
-import dev.zihasz.client.feature.command.Command;
-import dev.zihasz.client.manager.Manager;
-import dev.zihasz.client.utils.client.MessageBus;
-import dev.zihasz.client.utils.client.ReflectionUtils;
+import me.jensen.uvavu.feature.command.Command;
+import me.jensen.uvavu.manager.Manager;
+import me.jensen.uvavu.utils.client.MessageBus;
+import me.jensen.uvavu.utils.client.ReflectionUtils;
 import net.minecraftforge.client.event.ClientChatEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;

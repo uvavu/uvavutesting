@@ -3,7 +3,7 @@ package me.jensen.uvavu.feature.module.render;
 import me.jensen.uvavu.feature.module.Category;
 import me.jensen.uvavu.feature.module.Module;
 import me.jensen.uvavu.feature.settings.Setting;
-import me.jensen.uvavu.feature.settings.SettingBuilder;R
+import me.jensen.uvavu.feature.settings.SettingBuilder;
 import net.minecraftforge.client.event.RenderWorldLastEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;

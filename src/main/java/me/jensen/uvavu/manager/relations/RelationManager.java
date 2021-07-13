@@ -1,6 +1,6 @@
-package dev.zihasz.client.manager.relations;
+package me.jensen.uvavu.manager.relations;
 
-import dev.zihasz.client.manager.Manager;
+import me.jensen.uvavu.manager.Manager;
 
 import java.util.ArrayList;
 import java.util.List;
